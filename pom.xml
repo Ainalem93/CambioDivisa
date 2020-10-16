@@ -7,8 +7,8 @@
 	<artifactId>CambioDivisa</artifactId>
 	<version>0.0.1</version>
 
-	<name>Hola Mundo FX</name>
-	<description>Hola Mundo con JavaFX</description>
+	<name>Cambio Divisa FX</name>
+	<description>Cambio Divisa con JavaFX</description>
 
 	<properties>
 		<maven.compiler.target>11</maven.compiler.target>
